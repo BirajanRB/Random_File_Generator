@@ -1,0 +1,5 @@
+Copy And Paste your files into the "Files" folder .
+
+Open the Random_File_Generator.bat
+
+Press "f" key to open the files randomly.
